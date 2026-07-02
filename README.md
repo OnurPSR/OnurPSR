@@ -27,19 +27,9 @@ I am an AI Engineer working on NLP, Large Language Models, Computer Vision, and 
 
 ## Connect with Me
 
-<p align="left">
-  <a href="https://github.com/OnurPSR">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="38" height="38" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/onurdursun6">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn" />
-</a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@onurdursunn">
-    <img src="https://cdn.simpleicons.org/medium/FFFFFF" width="38" height="38" alt="Medium" />
-  </a>
-</p>
+- 📧 [**Email**](mailto:onurdursun@example.com)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/onurdursun6)  
+- ✍️ [**Medium**](https://medium.com/@onurdursunn)
 
 
 
