@@ -35,14 +35,12 @@ I am an AI Engineer working on NLP, Large Language Models, Computer Vision, and 
 
 ## GitHub Statistics
 
-<div>
-
-
+<div align="center">
 
 <img width="48%" src="https://streak-stats.demolab.com?user=OnurPSR&theme=tokyonight&hide_border=true" alt="Onur Dursun GitHub Streak" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnurPSR&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=OnurPSR&show_icons=true&theme=tokyonight&hide_border=true" alt="Onur Dursun GitHub Stats" />
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OnurPSR&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Onur Dursun GitHub Stats" />
+
 
 </div>
 
